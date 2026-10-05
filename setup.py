@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+        'first_node = ros_five.first_node:main',
         ],
     },
 )
