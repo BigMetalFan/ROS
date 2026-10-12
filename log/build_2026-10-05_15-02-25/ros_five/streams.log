@@ -1,0 +1,24 @@
+[0.702s] Invoking command in '/home/timofei/ros2_ws/src/ros_five': PYTHONPATH=/home/timofei/ros2_ws/build/ros_five/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_five build --build-base /home/timofei/ros2_ws/build/ros_five/build install --record /home/timofei/ros2_ws/build/ros_five/install.log --install-scripts $base/lib/ros_five --single-version-externally-managed install_data
+[0.930s] running egg_info
+[0.947s] writing ../../build/ros_five/ros_five.egg-info/PKG-INFO
+[0.947s] writing dependency_links to ../../build/ros_five/ros_five.egg-info/dependency_links.txt
+[0.948s] writing entry points to ../../build/ros_five/ros_five.egg-info/entry_points.txt
+[0.948s] writing requirements to ../../build/ros_five/ros_five.egg-info/requires.txt
+[0.948s] writing top-level names to ../../build/ros_five/ros_five.egg-info/top_level.txt
+[0.981s] reading manifest file '../../build/ros_five/ros_five.egg-info/SOURCES.txt'
+[0.982s] writing manifest file '../../build/ros_five/ros_five.egg-info/SOURCES.txt'
+[0.982s] running build
+[0.982s] running build_py
+[0.982s] copying ros_five/first_node.py -> /home/timofei/ros2_ws/build/ros_five/build/lib/ros_five
+[0.982s] running install
+[0.988s] running install_lib
+[1.006s] copying /home/timofei/ros2_ws/build/ros_five/build/lib/ros_five/first_node.py -> /home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages/ros_five
+[1.007s] byte-compiling /home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages/ros_five/first_node.py to first_node.cpython-312.pyc
+[1.007s] running install_data
+[1.007s] running install_egg_info
+[1.025s] removing '/home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages/ros_five-0.0.0-py3.12.egg-info' (and everything under it)
+[1.025s] Copying ../../build/ros_five/ros_five.egg-info to /home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages/ros_five-0.0.0-py3.12.egg-info
+[1.026s] running install_scripts
+[1.138s] Installing first_node script to /home/timofei/ros2_ws/install/ros_five/lib/ros_five
+[1.138s] writing list of installed files to '/home/timofei/ros2_ws/build/ros_five/install.log'
+[1.175s] Invoked command in '/home/timofei/ros2_ws/src/ros_five' returned '0': PYTHONPATH=/home/timofei/ros2_ws/build/ros_five/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros_five build --build-base /home/timofei/ros2_ws/build/ros_five/build install --record /home/timofei/ros2_ws/build/ros_five/install.log --install-scripts $base/lib/ros_five --single-version-externally-managed install_data

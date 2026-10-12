@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/timer_counter/timer_counter.egg-info
+writing ../build/timer_counter/timer_counter.egg-info/PKG-INFO
+writing dependency_links to ../build/timer_counter/timer_counter.egg-info/dependency_links.txt
+writing entry points to ../build/timer_counter/timer_counter.egg-info/entry_points.txt
+writing requirements to ../build/timer_counter/timer_counter.egg-info/requires.txt
+writing top-level names to ../build/timer_counter/timer_counter.egg-info/top_level.txt
+writing manifest file '../build/timer_counter/timer_counter.egg-info/SOURCES.txt'
+reading manifest file '../build/timer_counter/timer_counter.egg-info/SOURCES.txt'
+writing manifest file '../build/timer_counter/timer_counter.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/timofei/ros2_ws/src/build/timer_counter/build
+creating /home/timofei/ros2_ws/src/build/timer_counter/build/lib
+creating /home/timofei/ros2_ws/src/build/timer_counter/build/lib/timer_counter
+copying timer_counter/__init__.py -> /home/timofei/ros2_ws/src/build/timer_counter/build/lib/timer_counter
+copying timer_counter/timeNode.py -> /home/timofei/ros2_ws/src/build/timer_counter/build/lib/timer_counter
+running install
+running install_lib
+creating /home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter
+copying /home/timofei/ros2_ws/src/build/timer_counter/build/lib/timer_counter/__init__.py -> /home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter
+copying /home/timofei/ros2_ws/src/build/timer_counter/build/lib/timer_counter/timeNode.py -> /home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter
+byte-compiling /home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter/timeNode.py to timeNode.cpython-312.pyc
+running install_data
+creating /home/timofei/ros2_ws/src/install/timer_counter/share/ament_index
+creating /home/timofei/ros2_ws/src/install/timer_counter/share/ament_index/resource_index
+creating /home/timofei/ros2_ws/src/install/timer_counter/share/ament_index/resource_index/packages
+copying resource/timer_counter -> /home/timofei/ros2_ws/src/install/timer_counter/share/ament_index/resource_index/packages
+copying package.xml -> /home/timofei/ros2_ws/src/install/timer_counter/share/timer_counter
+running install_egg_info
+Copying ../build/timer_counter/timer_counter.egg-info to /home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter-0.0.0-py3.12.egg-info
+running install_scripts
+Installing timeNode script to /home/timofei/ros2_ws/src/install/timer_counter/lib/timer_counter
+writing list of installed files to '/home/timofei/ros2_ws/src/build/timer_counter/install.log'

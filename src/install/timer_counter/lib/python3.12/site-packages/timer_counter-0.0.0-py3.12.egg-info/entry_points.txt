@@ -1,0 +1,2 @@
+[console_scripts]
+timeNode = timer_counter.timeNode:main

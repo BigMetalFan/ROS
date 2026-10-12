@@ -1,0 +1,5 @@
+  File "/home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter/timeNode.py", line 1
+    !/usr/bin/env python3
+    ^
+SyntaxError: invalid syntax
+

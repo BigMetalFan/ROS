@@ -1,0 +1,27 @@
+[1.402s] Invoking command in '/home/timofei/ros2_ws/src/timer_counter': PYTHONPATH=/home/timofei/ros2_ws/src/build/timer_counter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/timer_counter build --build-base /home/timofei/ros2_ws/src/build/timer_counter/build install --record /home/timofei/ros2_ws/src/build/timer_counter/install.log --install-scripts $base/lib/timer_counter --single-version-externally-managed install_data
+[1.847s] running egg_info
+[1.879s] writing ../build/timer_counter/timer_counter.egg-info/PKG-INFO
+[1.880s] writing dependency_links to ../build/timer_counter/timer_counter.egg-info/dependency_links.txt
+[1.880s] writing entry points to ../build/timer_counter/timer_counter.egg-info/entry_points.txt
+[1.880s] writing requirements to ../build/timer_counter/timer_counter.egg-info/requires.txt
+[1.880s] writing top-level names to ../build/timer_counter/timer_counter.egg-info/top_level.txt
+[1.947s] reading manifest file '../build/timer_counter/timer_counter.egg-info/SOURCES.txt'
+[1.948s] writing manifest file '../build/timer_counter/timer_counter.egg-info/SOURCES.txt'
+[1.948s] running build
+[1.949s] running build_py
+[1.949s] running install
+[1.960s] running install_lib
+[1.994s] byte-compiling /home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter/timeNode.py to timeNode.cpython-312.pyc
+[1.995s] running install_data
+[1.995s] running install_egg_info
+[1.995s]   File "/home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter/timeNode.py", line 1
+[1.996s]     !/usr/bin/env python3
+[1.996s]     ^
+[1.996s] SyntaxError: invalid syntax
+[1.996s] 
+[2.030s] removing '/home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter-0.0.0-py3.12.egg-info' (and everything under it)
+[2.031s] Copying ../build/timer_counter/timer_counter.egg-info to /home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages/timer_counter-0.0.0-py3.12.egg-info
+[2.032s] running install_scripts
+[2.250s] Installing timeNode script to /home/timofei/ros2_ws/src/install/timer_counter/lib/timer_counter
+[2.251s] writing list of installed files to '/home/timofei/ros2_ws/src/build/timer_counter/install.log'
+[2.318s] Invoked command in '/home/timofei/ros2_ws/src/timer_counter' returned '0': PYTHONPATH=/home/timofei/ros2_ws/src/build/timer_counter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/timer_counter build --build-base /home/timofei/ros2_ws/src/build/timer_counter/build install --record /home/timofei/ros2_ws/src/build/timer_counter/install.log --install-scripts $base/lib/timer_counter --single-version-externally-managed install_data

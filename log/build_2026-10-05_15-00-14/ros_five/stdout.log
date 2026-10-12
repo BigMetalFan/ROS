@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/ros_five/ros_five.egg-info
+writing ../../build/ros_five/ros_five.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros_five/ros_five.egg-info/dependency_links.txt
+writing entry points to ../../build/ros_five/ros_five.egg-info/entry_points.txt
+writing requirements to ../../build/ros_five/ros_five.egg-info/requires.txt
+writing top-level names to ../../build/ros_five/ros_five.egg-info/top_level.txt
+writing manifest file '../../build/ros_five/ros_five.egg-info/SOURCES.txt'
+reading manifest file '../../build/ros_five/ros_five.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros_five/ros_five.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/timofei/ros2_ws/build/ros_five/build
+creating /home/timofei/ros2_ws/build/ros_five/build/lib
+creating /home/timofei/ros2_ws/build/ros_five/build/lib/ros_five
+copying ros_five/__init__.py -> /home/timofei/ros2_ws/build/ros_five/build/lib/ros_five
+running install
+running install_lib
+creating /home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages/ros_five
+copying /home/timofei/ros2_ws/build/ros_five/build/lib/ros_five/__init__.py -> /home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages/ros_five
+byte-compiling /home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages/ros_five/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/timofei/ros2_ws/install/ros_five/share/ament_index
+creating /home/timofei/ros2_ws/install/ros_five/share/ament_index/resource_index
+creating /home/timofei/ros2_ws/install/ros_five/share/ament_index/resource_index/packages
+copying resource/ros_five -> /home/timofei/ros2_ws/install/ros_five/share/ament_index/resource_index/packages
+copying package.xml -> /home/timofei/ros2_ws/install/ros_five/share/ros_five
+running install_egg_info
+Copying ../../build/ros_five/ros_five.egg-info to /home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages/ros_five-0.0.0-py3.12.egg-info
+running install_scripts
+Installing first_node script to /home/timofei/ros2_ws/install/ros_five/lib/ros_five
+writing list of installed files to '/home/timofei/ros2_ws/build/ros_five/install.log'
