@@ -1,0 +1,24 @@
+[0.704s] Invoking command in '/home/timofei/ros2_ws/src/OddWriter': PYTHONPATH=/home/timofei/ros2_ws/src/build/OddWriter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/OddWriter build --build-base /home/timofei/ros2_ws/src/build/OddWriter/build install --record /home/timofei/ros2_ws/src/build/OddWriter/install.log --install-scripts $base/lib/OddWriter --single-version-externally-managed install_data
+[0.935s] running egg_info
+[0.951s] writing ../build/OddWriter/OddWriter.egg-info/PKG-INFO
+[0.952s] writing dependency_links to ../build/OddWriter/OddWriter.egg-info/dependency_links.txt
+[0.952s] writing entry points to ../build/OddWriter/OddWriter.egg-info/entry_points.txt
+[0.952s] writing requirements to ../build/OddWriter/OddWriter.egg-info/requires.txt
+[0.952s] writing top-level names to ../build/OddWriter/OddWriter.egg-info/top_level.txt
+[0.986s] reading manifest file '../build/OddWriter/OddWriter.egg-info/SOURCES.txt'
+[0.986s] writing manifest file '../build/OddWriter/OddWriter.egg-info/SOURCES.txt'
+[0.986s] running build
+[0.986s] running build_py
+[0.986s] copying OddWriter/odd.py -> /home/timofei/ros2_ws/src/build/OddWriter/build/lib/OddWriter
+[0.987s] running install
+[0.992s] running install_lib
+[1.010s] copying /home/timofei/ros2_ws/src/build/OddWriter/build/lib/OddWriter/odd.py -> /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter
+[1.010s] byte-compiling /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter/odd.py to odd.cpython-312.pyc
+[1.011s] running install_data
+[1.011s] running install_egg_info
+[1.029s] removing '/home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter-0.0.0-py3.12.egg-info' (and everything under it)
+[1.029s] Copying ../build/OddWriter/OddWriter.egg-info to /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter-0.0.0-py3.12.egg-info
+[1.030s] running install_scripts
+[1.143s] Installing odd script to /home/timofei/ros2_ws/src/install/OddWriter/lib/OddWriter
+[1.143s] writing list of installed files to '/home/timofei/ros2_ws/src/build/OddWriter/install.log'
+[1.180s] Invoked command in '/home/timofei/ros2_ws/src/OddWriter' returned '0': PYTHONPATH=/home/timofei/ros2_ws/src/build/OddWriter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/OddWriter build --build-base /home/timofei/ros2_ws/src/build/OddWriter/build install --record /home/timofei/ros2_ws/src/build/OddWriter/install.log --install-scripts $base/lib/OddWriter --single-version-externally-managed install_data

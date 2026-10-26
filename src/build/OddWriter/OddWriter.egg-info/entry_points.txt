@@ -1,0 +1,3 @@
+[console_scripts]
+odd2 = OddWriter.odd2:main
+odd_listener = OddWriter.odd_listener:main

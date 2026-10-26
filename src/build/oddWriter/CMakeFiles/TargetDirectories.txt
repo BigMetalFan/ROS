@@ -1,0 +1,9 @@
+/home/timofei/ros2_ws/src/build/oddWriter/CMakeFiles/uninstall.dir
+/home/timofei/ros2_ws/src/build/oddWriter/CMakeFiles/oddWriter_uninstall.dir
+/home/timofei/ros2_ws/src/build/oddWriter/CMakeFiles/test.dir
+/home/timofei/ros2_ws/src/build/oddWriter/CMakeFiles/edit_cache.dir
+/home/timofei/ros2_ws/src/build/oddWriter/CMakeFiles/rebuild_cache.dir
+/home/timofei/ros2_ws/src/build/oddWriter/CMakeFiles/list_install_components.dir
+/home/timofei/ros2_ws/src/build/oddWriter/CMakeFiles/install.dir
+/home/timofei/ros2_ws/src/build/oddWriter/CMakeFiles/install/local.dir
+/home/timofei/ros2_ws/src/build/oddWriter/CMakeFiles/install/strip.dir

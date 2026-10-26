@@ -1,0 +1,8 @@
+source;share/oddWriter/hook/cmake_prefix_path.ps1
+source;share/oddWriter/hook/cmake_prefix_path.dsv
+source;share/oddWriter/hook/cmake_prefix_path.sh
+source;share/oddWriter/local_setup.bash
+source;share/oddWriter/local_setup.dsv
+source;share/oddWriter/local_setup.ps1
+source;share/oddWriter/local_setup.sh
+source;share/oddWriter/local_setup.zsh

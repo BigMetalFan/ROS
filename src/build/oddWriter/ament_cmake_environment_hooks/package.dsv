@@ -1,0 +1,4 @@
+source;share/oddWriter/local_setup.bash
+source;share/oddWriter/local_setup.dsv
+source;share/oddWriter/local_setup.sh
+source;share/oddWriter/local_setup.zsh

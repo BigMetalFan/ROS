@@ -1,0 +1,54 @@
+[0.000000] (-) TimerEvent: {}
+[0.001174] (-) JobUnselected: {'identifier': 'ros_five'}
+[0.001233] (-) JobUnselected: {'identifier': 'timer_counter'}
+[0.001268] (OddWriter) JobQueued: {'identifier': 'OddWriter', 'dependencies': OrderedDict()}
+[0.001300] (OddWriter) JobStarted: {'identifier': 'OddWriter'}
+[0.099723] (-) TimerEvent: {}
+[0.200202] (-) TimerEvent: {}
+[0.300656] (-) TimerEvent: {}
+[0.401082] (-) TimerEvent: {}
+[0.501557] (-) TimerEvent: {}
+[0.602039] (-) TimerEvent: {}
+[0.702524] (-) TimerEvent: {}
+[0.802993] (-) TimerEvent: {}
+[0.903488] (-) TimerEvent: {}
+[1.003968] (-) TimerEvent: {}
+[1.104460] (-) TimerEvent: {}
+[1.204936] (-) TimerEvent: {}
+[1.305446] (-) TimerEvent: {}
+[1.392153] (OddWriter) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/OddWriter', 'build', '--build-base', '/home/timofei/ros2_ws/src/build/OddWriter/build', 'install', '--record', '/home/timofei/ros2_ws/src/build/OddWriter/install.log', '--install-scripts', '$base/lib/OddWriter', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/timofei/ros2_ws/src/OddWriter', 'env': OrderedDict({'USER': 'timofei', 'XDG_SESSION_TYPE': 'wayland', 'CLUTTER_DISABLE_MIPMAPPED_TEXT': '1', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'OLDPWD': '/home/timofei', 'HOME': '/home/timofei', 'LESS': '-R', 'DESKTOP_SESSION': 'ubuntu', 'ZSH': '/home/timofei/.oh-my-zsh', 'LSCOLORS': 'Gxfxcxdxbxegedabagacad', 'GTK_MODULES': 'gail:atk-bridge', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'PAGER': 'less', 'ROS_PYTHON_VERSION': '3', 'SYSTEMD_EXEC_PID': '2518', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'GSM_SKIP_SSH_AGENT_WORKAROUND': 'true', 'COLORTERM': 'truecolor', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'jazzy', 'COLCON_PREFIX_PATH': '/home/timofei/ros2_ws/src/install:/home/timofei/ros2_ws/install', 'LOGNAME': 'timofei', '_': '/usr/bin/colcon', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.Shell@wayland.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'ROS_VERSION': '2', 'USERNAME': 'timofei', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'PATH': '/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/timofei-KLVL-WXXW:@/tmp/.ICE-unix/2464,unix/timofei-KLVL-WXXW:/tmp/.ICE-unix/2464', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/dffd88d3_6a03_4254_985e_922cc5684e36', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LANG': 'ru_RU.UTF-8', 'XDG_SESSION_DESKTOP': 'ubuntu', 'GNOME_TERMINAL_SERVICE': ':1.171', 'XMODIFIERS': '@im=ibus', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.HMY9W3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/timofei/ros2_ws/src/install/timer_counter:/home/timofei/ros2_ws/src/install/oddWriter:/home/timofei/ros2_ws/src/install/OddWriter:/home/timofei/ros2_ws/install/timer_counter:/home/timofei/ros2_ws/install/ros_five:/opt/ros/jazzy', 'SHELL': '/usr/bin/zsh', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'QT_IM_MODULE': 'ibus', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/home/timofei/ros2_ws/src/build/OddWriter', 'XDG_DATA_DIRS': '/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/timofei/ros2_ws/src/build/OddWriter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages:/home/timofei/ros2_ws/src/install/timer_counter/lib/python3.12/site-packages:/home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages:/home/timofei/ros2_ws/install/timer_counter/lib/python3.12/site-packages:/home/timofei/ros2_ws/install/ros_five/lib/python3.12/site-packages:/opt/ros/jazzy/opt/gz_math_vendor/lib/python:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'VTE_VERSION': '7600', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'CMAKE_PREFIX_PATH': '/home/timofei/ros2_ws/src/install/oddWriter:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor'}), 'shell': False}
+[1.405568] (-) TimerEvent: {}
+[1.505955] (-) TimerEvent: {}
+[1.606442] (-) TimerEvent: {}
+[1.706914] (-) TimerEvent: {}
+[1.807401] (-) TimerEvent: {}
+[1.844373] (OddWriter) StdoutLine: {'line': b'running egg_info\n'}
+[1.877171] (OddWriter) StdoutLine: {'line': b'writing ../build/OddWriter/OddWriter.egg-info/PKG-INFO\n'}
+[1.877529] (OddWriter) StdoutLine: {'line': b'writing dependency_links to ../build/OddWriter/OddWriter.egg-info/dependency_links.txt\n'}
+[1.877829] (OddWriter) StdoutLine: {'line': b'writing entry points to ../build/OddWriter/OddWriter.egg-info/entry_points.txt\n'}
+[1.878096] (OddWriter) StdoutLine: {'line': b'writing requirements to ../build/OddWriter/OddWriter.egg-info/requires.txt\n'}
+[1.878373] (OddWriter) StdoutLine: {'line': b'writing top-level names to ../build/OddWriter/OddWriter.egg-info/top_level.txt\n'}
+[1.907578] (-) TimerEvent: {}
+[1.945218] (OddWriter) StdoutLine: {'line': b"reading manifest file '../build/OddWriter/OddWriter.egg-info/SOURCES.txt'\n"}
+[1.946257] (OddWriter) StdoutLine: {'line': b"writing manifest file '../build/OddWriter/OddWriter.egg-info/SOURCES.txt'\n"}
+[1.946606] (OddWriter) StdoutLine: {'line': b'running build\n'}
+[1.946788] (OddWriter) StdoutLine: {'line': b'running build_py\n'}
+[1.947013] (OddWriter) StdoutLine: {'line': b'copying OddWriter/odd_listener.py -> /home/timofei/ros2_ws/src/build/OddWriter/build/lib/OddWriter\n'}
+[1.947437] (OddWriter) StdoutLine: {'line': b'running install\n'}
+[1.958744] (OddWriter) StdoutLine: {'line': b'running install_lib\n'}
+[1.992695] (OddWriter) StdoutLine: {'line': b'copying /home/timofei/ros2_ws/src/build/OddWriter/build/lib/OddWriter/odd_listener.py -> /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter\n'}
+[1.993524] (OddWriter) StdoutLine: {'line': b'byte-compiling /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter/odd_listener.py to odd_listener.cpython-312.pyc\n'}
+[1.994472] (OddWriter) StdoutLine: {'line': b'running install_data\n'}
+[1.994830] (OddWriter) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.007685] (-) TimerEvent: {}
+[2.030196] (OddWriter) StdoutLine: {'line': b"removing '/home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[2.030703] (OddWriter) StdoutLine: {'line': b'Copying ../build/OddWriter/OddWriter.egg-info to /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter-0.0.0-py3.12.egg-info\n'}
+[2.032157] (OddWriter) StdoutLine: {'line': b'running install_scripts\n'}
+[2.107810] (-) TimerEvent: {}
+[2.208360] (-) TimerEvent: {}
+[2.252956] (OddWriter) StdoutLine: {'line': b'Installing odd2 script to /home/timofei/ros2_ws/src/install/OddWriter/lib/OddWriter\n'}
+[2.253475] (OddWriter) StdoutLine: {'line': b"writing list of installed files to '/home/timofei/ros2_ws/src/build/OddWriter/install.log'\n"}
+[2.308472] (-) TimerEvent: {}
+[2.321207] (OddWriter) CommandEnded: {'returncode': 0}
+[2.336525] (OddWriter) JobEnded: {'identifier': 'OddWriter', 'rc': 0}
+[2.338435] (-) EventReactorShutdown: {}

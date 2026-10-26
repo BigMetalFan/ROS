@@ -1,0 +1,15 @@
+/home/timofei/ros2_ws/src/install/oddWriter/share/ament_index/resource_index/package_run_dependencies/oddWriter
+/home/timofei/ros2_ws/src/install/oddWriter/share/ament_index/resource_index/parent_prefix_path/oddWriter
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/environment/ament_prefix_path.sh
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/environment/ament_prefix_path.dsv
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/environment/path.sh
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/environment/path.dsv
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/local_setup.bash
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/local_setup.sh
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/local_setup.zsh
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/local_setup.dsv
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/package.dsv
+/home/timofei/ros2_ws/src/install/oddWriter/share/ament_index/resource_index/packages/oddWriter
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/cmake/oddWriterConfig.cmake
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/cmake/oddWriterConfig-version.cmake
+/home/timofei/ros2_ws/src/install/oddWriter/share/oddWriter/package.xml

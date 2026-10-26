@@ -1,0 +1,6 @@
+source;share/OddWriter/hook/pythonpath.ps1
+source;share/OddWriter/hook/pythonpath.dsv
+source;share/OddWriter/hook/pythonpath.sh
+source;share/OddWriter/hook/ament_prefix_path.ps1
+source;share/OddWriter/hook/ament_prefix_path.dsv
+source;share/OddWriter/hook/ament_prefix_path.sh

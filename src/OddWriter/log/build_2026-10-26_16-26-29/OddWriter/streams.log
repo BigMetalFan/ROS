@@ -1,0 +1,44 @@
+[1.397s] Invoking command in '/home/timofei/ros2_ws/src/OddWriter': PYTHONPATH=/home/timofei/ros2_ws/src/OddWriter/build/OddWriter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/OddWriter build --build-base /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build install --record /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/install.log --install-scripts $base/lib/OddWriter --single-version-externally-managed install_data
+[1.852s] running egg_info
+[1.853s] creating build/OddWriter/OddWriter.egg-info
+[1.885s] writing build/OddWriter/OddWriter.egg-info/PKG-INFO
+[1.886s] writing dependency_links to build/OddWriter/OddWriter.egg-info/dependency_links.txt
+[1.886s] writing entry points to build/OddWriter/OddWriter.egg-info/entry_points.txt
+[1.887s] writing requirements to build/OddWriter/OddWriter.egg-info/requires.txt
+[1.887s] writing top-level names to build/OddWriter/OddWriter.egg-info/top_level.txt
+[1.887s] writing manifest file 'build/OddWriter/OddWriter.egg-info/SOURCES.txt'
+[1.954s] reading manifest file 'build/OddWriter/OddWriter.egg-info/SOURCES.txt'
+[1.955s] writing manifest file 'build/OddWriter/OddWriter.egg-info/SOURCES.txt'
+[1.955s] running build
+[1.956s] running build_py
+[1.956s] creating /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build
+[1.956s] creating /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build/lib
+[1.956s] creating /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build/lib/OddWriter
+[1.956s] copying OddWriter/__init__.py -> /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build/lib/OddWriter
+[1.957s] copying OddWriter/odd_listener.py -> /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build/lib/OddWriter
+[1.957s] copying OddWriter/odd.py -> /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build/lib/OddWriter
+[1.957s] copying OddWriter/odd2.py -> /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build/lib/OddWriter
+[1.957s] running install
+[1.969s] running install_lib
+[2.003s] creating /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages/OddWriter
+[2.003s] copying /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build/lib/OddWriter/__init__.py -> /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages/OddWriter
+[2.003s] copying /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build/lib/OddWriter/odd_listener.py -> /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages/OddWriter
+[2.004s] copying /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build/lib/OddWriter/odd.py -> /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages/OddWriter
+[2.004s] copying /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build/lib/OddWriter/odd2.py -> /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages/OddWriter
+[2.005s] byte-compiling /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages/OddWriter/__init__.py to __init__.cpython-312.pyc
+[2.005s] byte-compiling /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages/OddWriter/odd_listener.py to odd_listener.cpython-312.pyc
+[2.006s] byte-compiling /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages/OddWriter/odd.py to odd.cpython-312.pyc
+[2.007s] byte-compiling /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages/OddWriter/odd2.py to odd2.cpython-312.pyc
+[2.008s] running install_data
+[2.008s] creating /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/share/ament_index
+[2.008s] creating /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/share/ament_index/resource_index
+[2.008s] creating /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/share/ament_index/resource_index/packages
+[2.008s] copying resource/OddWriter -> /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/share/ament_index/resource_index/packages
+[2.009s] copying package.xml -> /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/share/OddWriter
+[2.009s] running install_egg_info
+[2.045s] Copying build/OddWriter/OddWriter.egg-info to /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages/OddWriter-0.0.0-py3.12.egg-info
+[2.046s] running install_scripts
+[2.268s] Installing odd2 script to /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/OddWriter
+[2.268s] Installing odd_listener script to /home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/OddWriter
+[2.268s] writing list of installed files to '/home/timofei/ros2_ws/src/OddWriter/build/OddWriter/install.log'
+[2.336s] Invoked command in '/home/timofei/ros2_ws/src/OddWriter' returned '0': PYTHONPATH=/home/timofei/ros2_ws/src/OddWriter/build/OddWriter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/timofei/ros2_ws/src/OddWriter/install/OddWriter/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/OddWriter build --build-base /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/build install --record /home/timofei/ros2_ws/src/OddWriter/build/OddWriter/install.log --install-scripts $base/lib/OddWriter --single-version-externally-managed install_data

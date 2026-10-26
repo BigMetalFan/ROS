@@ -1,0 +1,25 @@
+running egg_info
+writing ../build/OddWriter/OddWriter.egg-info/PKG-INFO
+writing dependency_links to ../build/OddWriter/OddWriter.egg-info/dependency_links.txt
+writing entry points to ../build/OddWriter/OddWriter.egg-info/entry_points.txt
+writing requirements to ../build/OddWriter/OddWriter.egg-info/requires.txt
+writing top-level names to ../build/OddWriter/OddWriter.egg-info/top_level.txt
+reading manifest file '../build/OddWriter/OddWriter.egg-info/SOURCES.txt'
+writing manifest file '../build/OddWriter/OddWriter.egg-info/SOURCES.txt'
+running build
+running build_py
+copying OddWriter/odd.py -> /home/timofei/ros2_ws/src/build/OddWriter/build/lib/OddWriter
+copying OddWriter/odd2.py -> /home/timofei/ros2_ws/src/build/OddWriter/build/lib/OddWriter
+running install
+running install_lib
+copying /home/timofei/ros2_ws/src/build/OddWriter/build/lib/OddWriter/odd.py -> /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter
+copying /home/timofei/ros2_ws/src/build/OddWriter/build/lib/OddWriter/odd2.py -> /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter
+byte-compiling /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter/odd.py to odd.cpython-312.pyc
+byte-compiling /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter/odd2.py to odd2.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../build/OddWriter/OddWriter.egg-info to /home/timofei/ros2_ws/src/install/OddWriter/lib/python3.12/site-packages/OddWriter-0.0.0-py3.12.egg-info
+running install_scripts
+Installing odd script to /home/timofei/ros2_ws/src/install/OddWriter/lib/OddWriter
+writing list of installed files to '/home/timofei/ros2_ws/src/build/OddWriter/install.log'
